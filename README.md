@@ -11,12 +11,12 @@ This project is a simple implementation template for Stack Navigation on React N
 
 ## 🔖 How to run
 
-ˋˋˋ
-git clone https://github.com/adoniasvitorio/react-native-stack-navigation.git <br />
-cd react-native-stack-navigation <br />
-yarn install | npm install <br />
-yarn start | expo start <br />
-ˋˋˋ
+~~~
+git clone https://github.com/adoniasvitorio/react-native-stack-navigation.git
+cd react-native-stack-navigation 
+yarn install | npm install 
+yarn start | expo start 
+~~~
 
 
 
